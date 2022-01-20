@@ -1,0 +1,4 @@
+com\demo\demoSpringInizializer\controller\HomeController.class
+com\demo\demoSpringInizializer\DemoSpringInizializerApplication.class
+com\demo\demoSpringInizializer\service\CovidRestDataService.class
+com\demo\demoSpringInizializer\model\DataStateLocation.class
